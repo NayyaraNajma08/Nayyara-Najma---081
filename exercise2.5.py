@@ -1,0 +1,1 @@
+print('Yedam once said, "Even if we don\'t make it big at first, I want to grow little by little."')
